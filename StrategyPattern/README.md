@@ -1,1 +1,1 @@
-
+**What is Strategy Pattern?**
