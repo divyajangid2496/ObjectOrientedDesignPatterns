@@ -1,7 +1,7 @@
 **NOTE:** In this section we are discussing the problem related to a successful duck pond simulation game called "SimUDuck". This game shows a large variety of duck species swimming and making quacking sounds.
 
 **What is Strategy Pattern?**
-The Strategy Pattern defines a family of algorithms, encapsulates each one of them and make them interchangable. Strategy lets the algorithm vary independently from clients that use it.
+-> The Strategy Pattern defines a family of algorithms, encapsulates each one of them and make them interchangable. Strategy lets the algorithm vary independently from clients that use it.
   
 **Key Take Aways**
 1. Inheritance doesn't work well when the behaviour keeps changing across subclasses. Since it is not appropriate for all the subclassses to have those behaviour. For example in the SimUDuck example the flying behaviour of the Mallard duck was different from the rubber duck and decoy ducks
